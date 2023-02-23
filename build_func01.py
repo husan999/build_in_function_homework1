@@ -10,4 +10,5 @@ def main(number):
     """
     answer=abs(number)
     return answer
+
 print(main(-5))
