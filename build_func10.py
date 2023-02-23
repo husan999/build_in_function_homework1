@@ -9,4 +9,6 @@ def main(x, y):
     Returns:
         int: the value of the expression
     """
-    return
+    answer=3*y**(1/2)+x**(2/3)
+    return answer
+print(main(8,4))
